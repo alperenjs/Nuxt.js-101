@@ -1,5 +1,12 @@
 # dadjokes
 
+
+```bash
+NOT
+https://www.youtube.com/watch?v=ltzlhAxJr74
+bu videodan yol haritası çıkar buraya yaz, bir proje daha yap.
+```
+
 ## Build Setup
 
 ```bash
